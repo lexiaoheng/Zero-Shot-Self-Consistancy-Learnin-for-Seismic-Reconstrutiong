@@ -1,4 +1,4 @@
-# Zero-Shot Self-Consistancy Learning for Seismic Reconstrution
+# Zero-Shot Self-Consistancy Learning for Seismic Reconstruction
 ## 1. Structure of Code
 
 ```
