@@ -1,4 +1,5 @@
 # Zero-Shot Self-Consistency Learning for Seismic Reconstruction
+https://arxiv.org/abs/2411.00911
 ## 1. Structure of Code
 
 ```
